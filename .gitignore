@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.vspscc
+*.vssscc
+*.suo
+*.user
+*.user.*.resharper
+*.sln.docstates
+*.vcxproj.user
+
+# Build Folders
+[Dd]ebug/
+[Rr]elease/
+build/
+bin/
+obj/
+
+# IntelliSense
+.VC.db
+ipch/
+
+# External Libraries
+packages/
